@@ -65,4 +65,4 @@ Links will appear here as each project is published.
 
 Entry-level GRC, compliance, third-party risk, and SOC roles, ideally in transportation, logistics, or supply chain.
 
-Let's connect on https://www.linkedin.com/in/scottwashburn9.
+Let's connect on [LinkedIn](https://www.linkedin.com/in/scottwashburn9).
