@@ -1,6 +1,6 @@
 # Scott Washburn
 
-**Transportation operations and compliance professional moving into cybersecurity**
+**Transportation operations and compliance professional moving into cybersecurity**  
 Richmond, TX · GRC, third-party risk, and security operations for transportation and logistics
 
 ## My story
