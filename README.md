@@ -34,7 +34,7 @@ Each project is set in a transportation environment and follows the same format:
 
 | # | Project | What it shows | Tools and frameworks | Status |
 |---|---|---|---|---|
-| 1 | **Fleet cybersecurity risk assessment:** ELD, telematics, TMS, fuel cards, driver apps, and remote access at a fictional 150-truck carrier | Risk assessment, GRC thinking, industry knowledge | NIST CSF 2.0, risk register | Planned |
+| 1 | **Fleet cybersecurity risk assessment:** ELD, telematics, TMS, fuel cards, driver apps, and remote access at a fictional 150-truck carrier | Risk assessment, GRC thinking, industry knowledge | NIST CSF 2.0, risk register | [View project](https://github.com/washburn766/fleet-cybersecurity-risk-assessment) |
 | 2 | **Telematics/TMS vendor risk review** based on public security documentation | Third-party risk, vendor questionnaires | Security questionnaire, NIST CSF supply chain controls | Planned |
 | 3 | **SIEM investigation lab:** a simulated suspicious login to a dispatch system | Log analysis, alert triage, written findings | Splunk or Microsoft Sentinel, SQL, Linux | Planned |
 | 4 | **Ransomware incident response plan** for a small carrier | IR planning, policy writing, business impact | NIST incident response guidance | Planned |
